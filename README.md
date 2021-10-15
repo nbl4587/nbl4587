@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbl4587
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, HTML/CSS, Python
 
 
 <!---
