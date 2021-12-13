@@ -1,6 +1,6 @@
--I’m @nbl4587
+
 -I’m currently learning Java, HTML/CSS, Python
-Hehehehehhehehehehehehehehehhehe SIUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU 
+
 
 <!---![Uploading image.png…]()
 
