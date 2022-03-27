@@ -1,5 +1,5 @@
 
--I’m currently learning Java, HTML/CSS, Python
+-I’m currently learning Java, HTML/CSS, Python and JavaScript
 
 
 <!---![Uploading image.png…]()
